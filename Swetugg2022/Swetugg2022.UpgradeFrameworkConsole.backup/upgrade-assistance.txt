@@ -1,0 +1,7 @@
+﻿
+https://microsoft.github.io/sarif-web-component/
+
+
+upgrade-assistant analyze Swetugg2022.UpgradeFrameworkConsole.csproj
+
+upgrade-assistant upgrade Swetugg2022.UpgradeFrameworkConsole.csproj
